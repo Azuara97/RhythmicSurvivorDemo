@@ -24,6 +24,8 @@ The project contains scripts as:
 
 A version of the game without use the REST API is in the repository. This version of the game use the save/load data from a file in the system, saving data in json format.
 
+## [Video Demo](https://youtu.be/V629wjnaFug)
+
 ## Instructions with REST API
 + Clone the repository
 + Set the database with the query or the backup in the folder SQL
